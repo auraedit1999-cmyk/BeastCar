@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.helloworld"
+namespace = "com.beastcar.app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
