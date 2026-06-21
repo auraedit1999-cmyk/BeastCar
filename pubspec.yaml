@@ -12,7 +12,7 @@ dependencies:
   flutter_bluetooth_serial:
     git:
       url: https://github.com/edufolly/flutter_bluetooth_serial.git
-      ref: main
+      ref: master
   permission_handler: ^11.3.0
   google_fonts: ^6.1.0
 
